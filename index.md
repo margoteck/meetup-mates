@@ -1,4 +1,3 @@
-![MeetupMatesLogo] (/meetup-mates/meetupmateslogo.png)
 <img src="/meetup-mates/meetupmateslogo.png" alt="MeetupMatesLogo"/>
       
 
