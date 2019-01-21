@@ -41,3 +41,19 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+button {
+    padding: .7rem 1.3rem;
+    text-align: center;
+    color: #ec1641;
+    font-size: 1rem;
+    background: transparent;
+    border: 1px solid #ec164F;
+    border-radius: 4px;
+    margin: 20px 0px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+}
+    
+    
