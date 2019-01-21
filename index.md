@@ -1,4 +1,4 @@
-![Meetup Mates Logo] (meetup-mates/meetup mates logo.png)
+![Image] (meetup-mates/meetup mates logo.png)
       
 
 ## Welcome to Meetup Mates
