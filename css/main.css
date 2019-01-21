@@ -43,10 +43,10 @@ ul.posts li {
 }
 
 button {
-    padding: .7rem 1.3rem;
+    padding: .7em 1.3em;
     text-align: center;
     color: #ec1641;
-    font-size: 1rem;
+    font-size: 1em;
     background: transparent;
     border: 1px solid #ec164F;
     border-radius: 4px;
