@@ -63,35 +63,186 @@ p{font-size:1.125rem;font-weight:200;line-height:1.8}
 
 .col-12-sm{width:96%}
 
-@media only screen and (min-width: 45em){.col-1{width:4.33333%}
-  
+@media only screen and (min-width: 45em){
+  .col-1{width:4.33333%}
   .col-2{width:12.66667%}
-  
   .col-3{width:21%}
-  
   .col-4{width:29.33333%}
-  
   .col-5{width:37.66667%}
-  
   .col-6{width:46%}
-  
   .col-7{width:54.33333%}
-  
   .col-8{width:62.66667%}
-  
   .col-9{width:71%}
-  
   .col-10{width:79.33333%}
-  
   .col-11{width:87.66667%}
   .col-12{width:96%}
-  .hidden-sm{display:block}}
+  .hidden-sm{display:block
+  }
 
-a{text-decoration:none;transition:all .3s ease}
+}
+
+a{
+  text-decoration:none;
+  transition:all .3s ease
+}
 
 a:hover{opacity:.8}p a{font-weight:400}
 
-button{padding:.7rem 1.3rem;text-align:center;color:#FFFFFF;font-size:1rem;font-weight:200;background:transparent;border:1px solid #FFFFFF;border-radius:4px;margin:20px 0;cursor:pointer;transition:all 0.3s ease;outline:none}button:hover{background:#FFFFFF;color:#333447}button:active{outline:none}button.fb{color:#3B5998;border-color:#3B5998}button.fb:hover{background:#3B5998;color:#FFFFFF}button.yt{color:#CD201F;border-color:#CD201F}button.yt:hover{background:#CD201F;color:#FFFFFF}blockquote{margin:0;padding:0;-webkit-margin-before:0;-webkit-margin-after:0;-webkit-margin-start:0;-webkit-margin-end:0}blockquote:before{color:#CCCCCC;content:"\201C";font-size:4rem;line-height:.1rem;margin-right:.2rem;vertical-align:-1.7rem}blockquote p{display:inline;text-align:justify;-webkit-margin-before:0;-webkit-margin-after:0;-webkit-margin-start:0;-webkit-margin-end:0}blockquote cite{display:block;margin-top:1.2rem}hr{width:30%;height:0;border:0;border-top:1px solid rgba(0,0,0,0.1);border-bottom:1px solid rgba(255,255,255,0.3)}section{padding:5rem 0}.showcase{padding:0 0 2rem}.showcase hr{margin:2rem auto 1rem}.showcase a[href*="facebook.com"],.showcase a[href*="youtube.com"]{margin:0 .4rem}.showcase a[href*="facebook.com"] button,.showcase a[href*="youtube.com"] button{margin-bottom:0}.showcase a[href*="facebook.com"]:last-child button,.showcase a[href*="youtube.com"]:last-child button{margin-bottom:20px}.showcase ul{margin-top:-1rem;padding:0;list-style:none}.showcase ul a{margin:0 !important}.for-accessibility{display:none}.embed{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%}.embed iframe,.embed object,.embed embed{position:absolute;top:0;left:0;width:100%;height:100%}header .logo{margin:2rem auto 1rem;height:13rem;background-size:contain;background-repeat:no-repeat;background-position:center;text-indent:-99999px}header .logo.chewthefat{background-image:url(/assets/images/logo-chewthefat.svg)}header .logo.digitalsizzle{background-image:url(/assets/images/logo-digitalsizzle.svg)}header .logo.dontpitchmebro{margin:3rem auto 2rem;height:11rem;background-image:url(/assets/images/logo-dontpitchmebro.svg)}header .logo.lol{background-image:url(/assets/emoji/1f602.svg)}footer{margin-bottom:1rem}footer *{font-weight:200 !important;color:#CCCCCC}footer hr{width:100%}footer p{position:relative;float:left;z-index:99}footer p+p{float:right}footer p+p+p{width:100%;text-align:center;z-index:98}footer p+p+p a{width:50px;display:inline-block;background-image:url(/assets/emoji/1f602.svg);background-size:contain;background-repeat:no-repeat;background-position:center;text-indent:-99999px;opacity:.3}footer p+p+p a:hover{opacity:1}@media only screen and (min-width: 33.75em){footer p+p+p{margin-top:-50px}}.video{padding:5rem 0 7rem;background:#000000}.moving-on p{font-size:1.375rem;font-weight:400}.unicornhunt *,.silicondrinkabout *{color:#FFFFFF}.unicornhunt button,.silicondrinkabout button{padding:.7rem 1.7rem}.unicornhunt{background:#FE7880;background:#F38BD3;background-image:linear-gradient(#FE7880, #F38BD3)}.unicornhunt button:hover{color:#FE7880}.unicornhunt .logo{display:block;padding:2rem 1rem}@media only screen and (min-width: 45em){.unicornhunt .logo{margin-top:6rem}}.silicondrinkabout{background-image:url(/assets/images/background-sd.jpg);background-repeat:no-repeat;background-size:cover;background-position:center}.silicondrinkabout .logo{display:block;padding:2rem 1rem}@media only screen and (min-width: 45em){.silicondrinkabout{text-align:right}.silicondrinkabout .logo{margin-top:3rem}}.old-events .logo{display:block;height:8rem;margin:2rem 0;background-size:contain;background-position:center;background-repeat:no-repeat;text-indent:-99999px}.old-events .logo.dpmb{height:7rem;margin:2.5rem 0;background-image:url(/assets/images/logo-dontpitchmebro.svg)}.old-events .logo.ctf{background-image:url(/assets/images/logo-chewthefat.svg)}.old-events .logo.ds{background-image:url(/assets/images/logo-digitalsizzle.svg)}.crew h2 span{display:inline-block;margin:0 .5rem;width:13rem;background-size:contain;background-image:url(/assets/images/logo-3beards.svg);background-repeat:no-repeat;vertical-align:middle;text-indent:-99999px}.crew .beard{display:inline-block;margin:0 0 1rem;width:14rem}.crew .beard a{display:block;margin:2rem auto 1rem;width:10rem;height:10rem;background-size:contain;background-position:center;background-repeat:no-repeat;border-radius:50%}.crew .beard.michael a{background-image:url(/assets/images/team-michael.jpg)}.crew .beard.benjamin a{background-image:url(/assets/images/team-benjamin.jpg)}.crew .beard.bryce a{background-image:url(/assets/images/team-bryce.jpg)}.crew .beard.joe a{background-image:url(/assets/images/team-joe.jpg)}.crew .beard.gabbi a{background-image:url(/assets/images/team-gabbi.jpg)}.crew .beard.kevin a{background-image:url(/assets/images/team-kevin.jpg)}.crew .beard.vicky a{background-image:url(/assets/images/team-vicky.jpg)}.crew .beard.bruno a{background-image:url(/assets/images/team-bruno.jpg)}.crew .beard h4,.crew .beard p{margin:0}
+button{padding:.7rem 1.3rem;text-align:center;color:#FFFFFF;font-size:1rem;font-weight:200;background:transparent;border:1px solid #FFFFFF;border-radius:4px;margin:20px 0;cursor:pointer;transition:all 0.3s ease;outline:none}
+
+button:hover
+{
+  background:#FFFFFF;
+  color:#333447
+}
+
+button:active{
+  outline:none
+}
+
+button.fb{
+  color:#3B5998;
+  border-color:#3B5998
+}
+
+button.fb:hover{
+  background:#3B5998;
+  color:#FFFFFF
+}
+button.yt{
+  color:#CD201F;
+  border-color:#CD201F
+}
+
+button.yt:hover{
+  background:#CD201F;
+  color:#FFFFFF
+}
+blockquote{
+  margin:0;
+  padding:0;
+  -webkit-margin-before:0;
+  -webkit-margin-after:0;
+  -webkit-margin-start:0;
+  -webkit-margin-end:0
+}
+
+blockquote:before{
+  color:#CCCCCC;
+  content:"\201C";
+  font-size:4rem;
+  line-height:.1rem;margin-right:.2rem;vertical-align:-1.7rem
+}
+blockquote p{
+  display:inline;
+  text-align:justify;
+  -webkit-margin-before:0;
+  -webkit-margin-after:0;
+  -webkit-margin-start:0;
+  -webkit-margin-end:0
+}
+blockquote cite{
+  display:block;
+  margin-top:1.2rem
+}
+
+hr{
+  width:30%;
+  height:0;
+  border:0;
+  border-top:1px solid rgba(0,0,0,0.1);
+  border-bottom:1px solid rgba(255,255,255,0.3)
+}
+
+section{
+  padding:5rem 0
+}
+
+.showcase{padding:0 0 2rem}
+
+.showcase hr{margin:2rem auto 1rem}
+
+.showcase a[href*="facebook.com"]
+.showcase a[href*="youtube.com"]{margin:0 .4rem}
+.showcase a[href*="facebook.com"] 
+
+button,.showcase a[href*="youtube.com"]
+button{margin-bottom:0}
+
+.showcase a[href*="facebook.com"]:last-child button,.showcase a[href*="youtube.com"]:last-child button{margin-bottom:20px}
+
+.showcase ul{margin-top:-1rem;padding:0;list-style:none}
+
+.showcase ul a{margin:0 !important}
+.for-accessibility{display:none}
+.embed{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%}
+.embed iframe,.embed object,.embed embed{position:absolute;top:0;left:0;width:100%;height:100%}
+
+header .logo{margin:2rem auto 1rem;height:13rem;background-size:contain;background-repeat:no-repeat;background-position:center;text-indent:-99999px}
+
+header .logo.chewthefat{background-image:url(/assets/images/logo-chewthefat.svg)}
+
+header .logo.digitalsizzle{background-image:url(/assets/images/logo-digitalsizzle.svg)}
+
+header .logo.dontpitchmebro{margin:3rem auto 2rem;height:11rem;background-image:url(/assets/images/logo-dontpitchmebro.svg)}
+
+header .logo.lol{background-image:url(/assets/emoji/1f602.svg)}
+
+footer{margin-bottom:1rem}
+
+footer *{font-weight:200 !important;color:#CCCCCC}
+
+footer hr{width:100%}
+
+footer p{position:relative;float:left;z-index:99}
+
+footer p+p{float:right}
+
+footer p+p+p{width:100%;text-align:center;z-index:98}
+
+footer p+p+p a{width:50px;display:inline-block;background-image:url(/assets/emoji/1f602.svg);background-size:contain;background-repeat:no-repeat;background-position:center;text-indent:-99999px;opacity:.3}
+
+footer p+p+p a:hover{opacity:1}
+
+@media only screen and (min-width: 33.75em){footer p+p+p{margin-top:-50px}}
+
+.video{padding:5rem 0 7rem;background:#000000}
+
+.moving-on p{font-size:1.375rem;font-weight:400}
+
+.unicornhunt *,.silicondrinkabout *{color:#FFFFFF}.unicornhunt button,.silicondrinkabout button{padding:.7rem 1.7rem}
+
+.unicornhunt{background:#FE7880;background:#F38BD3;background-image:linear-gradient(#FE7880, #F38BD3)}
+
+.unicornhunt button:hover{color:#FE7880}
+
+.unicornhunt .logo{display:block;padding:2rem 1rem}
+
+@media only screen and (min-width: 45em){.unicornhunt .logo{margin-top:6rem}}
+
+.silicondrinkabout{background-image:url(/assets/images/background-sd.jpg);background-repeat:no-repeat;background-size:cover;background-position:center}
+
+.silicondrinkabout .logo{display:block;padding:2rem 1rem}
+
+@media only screen and (min-width: 45em){.silicondrinkabout{text-align:right}
+  
+  .silicondrinkabout .logo{margin-top:3rem}}
+
+.old-events .logo{display:block;height:8rem;margin:2rem 0;background-size:contain;background-position:center;background-repeat:no-repeat;text-indent:-99999px}
+
+.old-events .logo.dpmb{height:7rem;margin:2.5rem 0;background-image:url(/assets/images/logo-dontpitchmebro.svg)}
+
+.old-events .logo.ctf{background-image:url(/assets/images/logo-chewthefat.svg)}
+
+.old-events .logo.ds{background-image:url(/assets/images/logo-digitalsizzle.svg)}
+
+.crew h2 span{display:inline-block;margin:0 .5rem;width:13rem;background-size:contain;background-image:url(/assets/images/logo-3beards.svg);background-repeat:no-repeat;vertical-align:middle;text-indent:-99999px}
+
+.crew .beard{display:inline-block;margin:0 0 1rem;width:14rem}
+
+.crew .beard a{display:block;margin:2rem auto 1rem;width:10rem;height:10rem;background-size:contain;background-position:center;background-repeat:no-repeat;border-radius:50%}
+
+.crew .beard.michael a{background-image:url(/assets/images/team-michael.jpg)}.crew .beard.benjamin a{background-image:url(/assets/images/team-benjamin.jpg)}.crew .beard.bryce a{background-image:url(/assets/images/team-bryce.jpg)}.crew .beard.joe a{background-image:url(/assets/images/team-joe.jpg)}.crew .beard.gabbi a{background-image:url(/assets/images/team-gabbi.jpg)}.crew .beard.kevin a{background-image:url(/assets/images/team-kevin.jpg)}.crew .beard.vicky a{background-image:url(/assets/images/team-vicky.jpg)}.crew .beard.bruno a{background-image:url(/assets/images/team-bruno.jpg)}.crew .beard h4,.crew .beard p{margin:0}
 
 .remembeard h2{margin-bottom:3rem}
 
